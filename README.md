@@ -19,10 +19,6 @@ A simple command-line interface (CLI) tool to search and explore anime details u
 - Python 3.x
 - `requests` library
 
-You can install the required library using:
-
-
-pip install requests
 
 
 ## Sample Output
@@ -46,6 +42,8 @@ Episodes      : 500
 Rating        : 85/100
 ...
 
-
+You can install the required library using:
 
 ```bash
+pip install requests
+
